@@ -1,0 +1,6 @@
+*Website: delfi.lt
+*Ping to 172.67.11.70: 4 packets transmitted, 4 packets received, 0.0% packet loss
+*Ping to 172.66.157.134: 4 packets transmitted, 4 packets received, 0.0% packet loss
+*IP: 172.67.11.70, 172.66.157.134
+*HTTP: 301 Redirect to https://www.delfi.lt/
+*HTTP: 200 OK for https://www.delfi.lt/

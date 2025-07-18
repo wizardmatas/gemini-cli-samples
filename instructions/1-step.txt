@@ -1,0 +1,2 @@
+Use nslookup tool to find out ip adress of website.
+If there are multiple ip addresses, record these.

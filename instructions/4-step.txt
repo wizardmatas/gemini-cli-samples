@@ -1,0 +1,16 @@
+Write results to troubleshooting file.
+
+finalresults-{domain}-{date}.txt
+
+date.txt
+
+
+Example:
+Output format should be like this:
+
+*Website: exmaple.com
+*Ping to {IP1}: 4 packets transmitted, 4 packets received, 0.0% packet loss
+*IP: 11.11.11.11, 22.22.22.22
+HTTP: 200 OK for {IP1}
+HTTP: 200 OK for {IP2}
+

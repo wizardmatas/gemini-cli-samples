@@ -1,0 +1,3 @@
+Use curl -I -H "Host:exmaple.com" https://{IP} tool to check  each IP address if it is reachable and record response status code.
+
+If there is redirect, fallow it, and check status code of it.

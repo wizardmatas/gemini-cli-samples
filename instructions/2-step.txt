@@ -1,0 +1,1 @@
+Use ping tools to check if ip adress is reachable, if there are mutiple ip adresses ping all of them.
