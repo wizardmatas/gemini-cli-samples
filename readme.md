@@ -4,9 +4,9 @@ This repository contains a DevOps engineer agent that specializes in network tro
 
 ## Usage
 
-`
+```
 gemini -y -p "Troubleshoot page delfi.lt . Before going clearly explain steps you will do, and then execute"
-`
+```
 
 ## Core Directives
 
