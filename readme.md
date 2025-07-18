@@ -1,6 +1,6 @@
 # Network Troubleshooting Agent
 
-This repository contains a DevOps engineer agent that specializes in network troubleshooting. Its primary function is to diagnose and report on network-related issues using a specific set of tools and a standardized workflow. Agent use gemini-cli
+This repository contains a DevOps engineer agent that specializes in network troubleshooting. Its primary function is to diagnose and report on network-related issues using a specific set of tools and a standardized workflow. Agent use [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
 ## Usage
 
